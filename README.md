@@ -1,9 +1,9 @@
 ## Welcome Everybody 👋
 
-my name is Meike, I am 32 years old and live in the district of Osnabrück.
+my name is Meike, I am 32 years old and live :bee: in the district of Osnabrück.
 
 
-I am currently **retraining** as a web developer by neue fische, where I am learning various **training contents**, including:
+I am currently **retraining** as a web developer :computer: by neue fische, where I am learning various **training contents**, including:
 
 + JavaScipt
 
@@ -12,6 +12,5 @@ I am currently **retraining** as a web developer by neue fische, where I am lear
 + HTML 
 + and many other
 
-+ Ask me about GitHub :speech_balloon:
-
++ :speech_balloon: Ask me about GitHub 
 

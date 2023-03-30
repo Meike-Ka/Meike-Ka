@@ -16,5 +16,5 @@ I am currently **retraining** as a web developer :computer: by neue fische, wher
 + :speech_balloon: Ask me about GitHub 
 
 
-https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80
-
+Inline-style: 
+![alt text](Desktop/Bild.jpeg)

@@ -16,4 +16,4 @@ I am currently **retraining** as a web developer :computer: by neue fische, wher
 + :speech_balloon: Ask me about GitHub 
 
 
-[!alt]file:///C:/Users/Andr%C3%A9/Downloads/A_Computer_program_does_what_you_tell_it_to_do,_not_what_you_want_it_to_do..png
+![alt]file:///C:/Users/Andr%C3%A9/Downloads/A_Computer_program_does_what_you_tell_it_to_do,_not_what_you_want_it_to_do..png

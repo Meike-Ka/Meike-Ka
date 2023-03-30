@@ -16,5 +16,3 @@ I am currently **retraining** as a web developer :computer: by neue fische, wher
 + :speech_balloon: Ask me about GitHub 
 
 
-Inline-style: 
-![alt text](Desktop/Bild.jpeg)

@@ -13,7 +13,7 @@ I am currently **retraining** as a web developer :computer: by neue fische, wher
 + HTML 
 + and many other
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Meike-Ka&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meike-Ka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
